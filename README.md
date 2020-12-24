@@ -5,10 +5,9 @@
 
 
 # about key
-P : stop program
-< : pointer size down
-> : pointer size up
-N : if user was click left buttn then '_N_' change to '_E_' and save in "after" folder, if user was not click left button then just saving image in "after" folder and change to next image
-R : image reload
-B : back to before image and Delete the created image
-
+1. 'P' : stop program
+2. '<' : pointer size down
+3. '>' : pointer size up
+4. 'N' : if user was click left buttn then '_N_' change to '_E_' and save in "after" folder, if user was not click left button then just saving image in "after" folder and change to next image
+5. 'R' : image reload
+6. 'B' : back to before image and Delete the created image
