@@ -4,7 +4,7 @@
 2. "after" folder : Images requiring blurring  / "before" folder : Blurred Image will save
 
 
-#about key
+# about key
 P : stop program
 < : pointer size down
 > : pointer size up
